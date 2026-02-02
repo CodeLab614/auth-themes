@@ -1,0 +1,18 @@
+[
+  {
+    "id": "minimal",
+    "name": "Minimalist Clean",
+    "description": "Un diseño limpio y ligero.",
+    "files": [
+      {
+        "source": "registry/minimal/app/auth/login/page.tsx",
+        "target": "app/auth/login/page.tsx"
+      },
+      {
+        "source": "registry/minimal/app/auth/register/page.tsx",
+        "target": "app/auth/register/page.tsx"
+      }
+    ],
+    "dependencies": ["lucide-react"]
+  }
+]
