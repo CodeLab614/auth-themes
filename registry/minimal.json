@@ -1,5 +1,6 @@
 {
   "id": "minimal",
+  "shadcnComponents": ["alert", "button"],
   "files": [
     {
       "source": "themes/minimal/app/auth/layout.tsx",
@@ -12,6 +13,14 @@
     {
       "source": "themes/minimal/app/auth/register/page.tsx",
       "target": "app/auth/register/page.tsx"
+    },
+    {
+      "source": "themes/minimal/components/ui/button.tsx",
+      "target": "components/ui/button.tsx"
+    },
+    {
+      "source": "themes/minimal/components/ui/alert.tsx",
+      "target": "components/ui/alert.tsx"
     }
   ],
   "dependencies": ["lucide-react", "motion"]
