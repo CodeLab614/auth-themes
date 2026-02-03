@@ -1,0 +1,18 @@
+{
+  "id": "minimal",
+  "files": [
+    {
+      "source": "themes/minimal/layout.tsx",
+      "target": "app/auth/layout.tsx"
+    },
+    {
+      "source": "themes/minimal/auth/login/page.tsx",
+      "target": "app/auth/login/page.tsx"
+    },
+    {
+      "source": "themes/minimal/auth/register/page.tsx",
+      "target": "app/auth/register/page.tsx"
+    }
+  ],
+  "dependencies": ["lucide-react", "motion"]
+}
