@@ -3,12 +3,14 @@
     "id": "minimal",
     "name": "Minimalist Clean",
     "description": "Diseño limpio ideal para SAAS.",
-    "configUrl": "registry/minimal.json"
+    "configUrl": "registry/minimal.json",
+    "demoUrl": "https://auth-minimal-demo.vercel.app"
   },
   {
     "id": "corporate",
     "name": "Corporate Blue",
     "description": "Diseño serio para fintech.",
-    "configUrl": "registry/corporate.json"
+    "configUrl": "registry/corporate.json",
+    "demoUrl": "https://auth-corporate-demo.vercel.app"
   }
 ]
