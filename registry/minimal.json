@@ -2,15 +2,15 @@
   "id": "minimal",
   "files": [
     {
-      "source": "themes/minimal/layout.tsx",
+      "source": "themes/minimal/app/auth/layout.tsx",
       "target": "app/auth/layout.tsx"
     },
     {
-      "source": "themes/minimal/auth/login/page.tsx",
+      "source": "themes/minimal/app/auth/login/page.tsx",
       "target": "app/auth/login/page.tsx"
     },
     {
-      "source": "themes/minimal/auth/register/page.tsx",
+      "source": "themes/minimal/app/auth/register/page.tsx",
       "target": "app/auth/register/page.tsx"
     }
   ],
