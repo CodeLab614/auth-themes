@@ -2,6 +2,10 @@
   "id": "corporate",
   "files": [
     {
+      "source": "themes/corporate/globals.css",
+      "target": "app/globals.css"
+    },
+    {
       "source": "themes/minimal/app/auth/layout.tsx",
       "target": "app/auth/layout.tsx"
     },

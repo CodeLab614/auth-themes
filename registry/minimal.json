@@ -3,6 +3,10 @@
   "shadcnComponents": ["alert", "button"],
   "files": [
     {
+      "source": "themes/minimal/globals.css",
+      "target": "app/globals.css"
+    },
+    {
       "source": "themes/minimal/app/auth/layout.tsx",
       "target": "app/auth/layout.tsx"
     },
