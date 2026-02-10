@@ -12,5 +12,12 @@
     "description": "Diseño serio para fintech.",
     "configUrl": "registry/corporate.json",
     "demoUrl": "https://auth-corporate-demo.vercel.app"
+  },
+  {
+    "id": "neotech",
+    "name": "Neotech",
+    "description": "Diseño futurista con colores neón para apps de tecnología.",
+    "configUrl": "registry/neotech.json",
+    "demoUrl": "https://auth-neotech-demo.vercel.app"
   }
 ]

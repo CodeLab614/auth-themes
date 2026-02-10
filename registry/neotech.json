@@ -1,0 +1,55 @@
+{
+  "id": "neotech",
+  "shadcnComponents": ["button", "input", "card", "label", "checkbox"],
+  "files": [
+    {
+      "source": "themes/neotech/globals.css",
+      "target": "app/globals.css"
+    },
+    {
+      "source": "themes/neotech/app/auth/layout.tsx",
+      "target": "app/auth/layout.tsx"
+    },
+    {
+      "source": "themes/neotech/app/auth/login/page.tsx",
+      "target": "app/auth/login/page.tsx"
+    },
+    {
+      "source": "themes/neotech/app/auth/register/page.tsx",
+      "target": "app/auth/register/page.tsx"
+    },
+    {
+      "source": "themes/neotech/components/ui/button.tsx",
+      "target": "components/ui/button.tsx"
+    },
+    {
+      "source": "themes/neotech/components/ui/input.tsx",
+      "target": "components/ui/input.tsx"
+    },
+    {
+      "source": "themes/neotech/components/ui/card.tsx",
+      "target": "components/ui/card.tsx"
+    },
+    {
+      "source": "themes/neotech/components/ui/label.tsx",
+      "target": "components/ui/label.tsx"
+    },
+    {
+      "source": "themes/neotech/components/ui/checkbox.tsx",
+      "target": "components/ui/checkbox.tsx"
+    },
+    {
+      "source": "themes/neotech/components/forms/login-form.tsx",
+      "target": "components/forms/login-form.tsx"
+    },
+    {
+      "source": "themes/neotech/components/forms/register-form.tsx",
+      "target": "components/forms/register-form.tsx"
+    },
+    {
+      "source": "themes/neotech/components/blocks/social-login.tsx",
+      "target": "components/blocks/social-login.tsx"
+    }
+  ],
+  "dependencies": ["lucide-react"]
+}

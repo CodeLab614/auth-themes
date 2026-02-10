@@ -1,0 +1,55 @@
+{
+  "id": "brutalism",
+  "shadcnComponents": ["button", "input", "card", "label", "checkbox"],
+  "files": [
+    {
+      "source": "themes/brutalism/globals.css",
+      "target": "app/globals.css"
+    },
+    {
+      "source": "themes/brutalism/app/auth/layout.tsx",
+      "target": "app/auth/layout.tsx"
+    },
+    {
+      "source": "themes/brutalism/app/auth/login/page.tsx",
+      "target": "app/auth/login/page.tsx"
+    },
+    {
+      "source": "themes/brutalism/app/auth/register/page.tsx",
+      "target": "app/auth/register/page.tsx"
+    },
+    {
+      "source": "themes/brutalism/components/ui/button.tsx",
+      "target": "components/ui/button.tsx"
+    },
+    {
+      "source": "themes/brutalism/components/ui/input.tsx",
+      "target": "components/ui/input.tsx"
+    },
+    {
+      "source": "themes/brutalism/components/ui/card.tsx",
+      "target": "components/ui/card.tsx"
+    },
+    {
+      "source": "themes/brutalism/components/ui/label.tsx",
+      "target": "components/ui/label.tsx"
+    },
+    {
+      "source": "themes/brutalism/components/ui/checkbox.tsx",
+      "target": "components/ui/checkbox.tsx"
+    },
+    {
+      "source": "themes/brutalism/components/forms/login-form.tsx",
+      "target": "components/forms/login-form.tsx"
+    },
+    {
+      "source": "themes/brutalism/components/forms/register-form.tsx",
+      "target": "components/forms/register-form.tsx"
+    },
+    {
+      "source": "themes/brutalism/components/blocks/social-login.tsx",
+      "target": "components/blocks/social-login.tsx"
+    }
+  ],
+  "dependencies": ["lucide-react"]
+}

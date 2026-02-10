@@ -5,6 +5,7 @@ import { withThemeByDataAttribute } from "@storybook/addon-themes";
 import "../themes/minimal/globals.css";
 import "../themes/brutalism/globals.css";
 import "../themes/corporate/globals.css";
+import "../themes/neotech/globals.css";
 
 
 const preview: Preview = {
